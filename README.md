@@ -17,11 +17,12 @@
     </button>
   </a>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedbader)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ahmedbader)
-[![Website](https://img.shields.io/badge/My%20Website-3498DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmedbader.dev)
-[![Email](https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedbader@gmail.com)
-
+<p align="center">
+    <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Full Stack Web Developer**.
 - 🌱 I’m learning **Laravel, React.js, and improving MySQL skills**.
