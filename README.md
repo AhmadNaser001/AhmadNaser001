@@ -28,8 +28,7 @@
 - ⚙️ **Tools:** GitHub, VS Code, DBeaver
 
 ---
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
+### 📊 Github Stats
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
