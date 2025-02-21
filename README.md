@@ -11,11 +11,7 @@
   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fres.cloudinary.com%2Fd74fh3kw%2Fimage%2Fupload%2Fv1641259873%2Fproject-developer_nco99x.webp" width="400" alt="Coding Image">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedbader" target="_blank">
-    <button style="background-color:#0077B5;color:white;padding:8px 16px;border:none;border-radius:5px;font-size:14px;">
-      LinkedIn
-    </button>
-  </a>
+
   
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmad-bader-dev/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
