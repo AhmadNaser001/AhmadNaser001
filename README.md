@@ -34,7 +34,7 @@
     <a href="https://github.com/AhmadNaser001">
         <img alt="AhmadNaser001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadNaser001&show_icons=true&count_private=true&locale=en&theme=dracula" height="230px"/>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadNaser001&langs_count=6&hide=html,css&show_icons=true&locale=en&theme=dracula" alt="AhmadNaser001" height="230px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadNaser001&langs_count=6&show_icons=true&locale=en&theme=dracula" alt="AhmadNaser001" height="230px"/>
 </p>
 
 </p>
