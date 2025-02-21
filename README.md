@@ -31,11 +31,11 @@
 ### 📊 Github Stats
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+    <a href="https://github.com/AhmadBader001">
+        <img alt="AhmadBader001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadBader001&show_icons=true&count_private=true&locale=en&theme=dracula" height="230px"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadBader001&langs_count=6&hide=html,css&show_icons=true&locale=en&theme=dracula" alt="AhmadBader001" height="230px"/>
+</p>
 <br/>
-
-Credit: [Ahmed Bader](https://github.com/AhmadBader001)
 
 Last edited on: 02/21/2025
