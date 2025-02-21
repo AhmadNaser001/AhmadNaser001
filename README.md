@@ -13,7 +13,8 @@
 </div>
     <br>
 ---
- ### 👨‍💻 About Me:
+
+### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Full Stack Web Developer**.
 - 🌱 I’m learning **Laravel, React.js, and improving MySQL skills**.
 - 👯 I’m looking to collaborate on **exciting web development projects**.
