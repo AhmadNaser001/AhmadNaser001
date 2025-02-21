@@ -12,11 +12,10 @@
     </div>
 </div>
     <br>
----
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working as a **Full Stack Web Developer**.
-- 🌱 I’m learning **Laravel, React.js, and improving MySQL skills**.
+- 🌱 I’m learning **Laravel, and improving MySQL skills**.
 - 👯 I’m looking to collaborate on **exciting web development projects**.
 - 💬 Ask me about **PHP, Laravel, JavaScript, and front-end development**.
 
@@ -24,9 +23,9 @@
 
 ### 🛠 Tech Stack:
 - 💻 **Languages:** JavaScript, PHP, HTML, CSS, SQL
-- 🌐 **Front-End:** React.js, Bootstrap, jQuery
+- 🌐 **Front-End:** Bootstrap
 - 🛢 **Back-End:** Laravel, MySQL
-- ⚙️ **Tools:** GitHub, VS Code, Postman, DBeaver
+- ⚙️ **Tools:** GitHub, VS Code, DBeaver
 
 ---
 
