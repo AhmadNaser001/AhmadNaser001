@@ -1,7 +1,9 @@
 <div>
     <h1 align="center"> Hello! I'm Ahmed Bader 👋 </h1>
     <h3 align="center"> Full Stack Web Developer </h3>
-    <p align="center"><a href="https://github.com/AhmadBader001"><img width="80%" alt="Hello, I'm Ahmed Bader. A Full Stack Web Developer" src="./assets/gh-readme-header.png" /></a></p>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
+    </div>
     <br>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmad-bader-dev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
