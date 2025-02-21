@@ -1,6 +1,5 @@
-<h1 align="center" style="color:#FF5733; font-family:Arial, sans-serif;">
-  Hello! I'm Ahmed Bader 👋
-</h1>
+    <p align="center"><a href="https://github.com/engsahaly"><img width="80%" alt="Hello, I'm Ahmad. A full stack web developer" src="./assets/gh-readme-header.png" /></a></p>
+
 
 <h3 align="center" style="color:#4A90E2; font-family:Courier New, monospace;">
   A Full Stack Web Developer
