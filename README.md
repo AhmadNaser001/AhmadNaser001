@@ -10,17 +10,6 @@
         <a href="https://ahmadbader.com/"><img src="https://img.shields.io/badge/Website-My%20Website-blue" alt="My Website" /></a>
         <a href="mailto:ahmadbader.n@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
     </div>
-        <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=engsahaly&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engsahaly&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=engsahaly&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
-    </div>
-</div>
     <br>
 
 ### 👨‍💻 About Me:
@@ -40,11 +29,16 @@
 ---
 ### 📊 Github Stats
   <br/>
-<p align="center">
-    <a href="https://github.com/AhmadNaser001">
-        <img alt="AhmadNaser001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadNaser001&show_icons=true&count_private=true&locale=en&theme=dracula" height="230px"/>
-    </a>
-</p>
+    <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=engsahaly&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engsahaly&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=engsahaly&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
 
 </p>
 <br/>
