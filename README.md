@@ -1,6 +1,6 @@
 <div>
     <h1 align="center"> Hello! I'm Ahmed Bader 👋 </h1>
-    <h3 align="center">Full Stack Web Developer | ASP.NET Core </h3>
+    <h3 align="center">Full Stack .NET Developer | C#, ASP.NET Core, Angular  </h3>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
@@ -13,16 +13,17 @@
     <br>
 
   ### 👨‍💻 About Me:
-  - 🔭 Currently building full-stack web apps using **ASP.NET Core**.
-  - 🌱 Learning advanced **Entity Framework**, **LINQ**, and improving **MySQL & SQL Server** skills.
+  - 🔭 Currently building full-stack web apps using **ASP.NET Core** and **Angular**.
+  - 🌱 Learning advanced **Entity Framework Core**, **LINQ**, and improving **MySQL & SQL Server** skills.
+  - 💼 Looking for opportunities as a **Junior Full-Stack .NET Developer**.
   - 👯 Open to collaborate on **modern web platforms** and **REST APIs**.
-  - 💬 Ask me about **C#, ASP.NET Core , JavaScript**, or anything full stack!
+  - 💬 Ask me about **C#, ASP.NET Core, Angular, JavaScript**, or full-stack development!
 ---
 
 ### 🛠 Tech Stack:
   - 💻 **Languages:** C#, JavaScript, SQL, HTML, CSS
-  - 🌐 **Front-End:** Bootstrap, Tailwind ,JS
-  - 🛢 **Back-End:** ASP.NET Core, SQL Server
+  - 🌐 **Front-End:** Bootstrap, Tailwind, Angular, JS
+  - 🛢 **Back-End:** ASP.NET Core, SQL Server, Entity Framework Core
   - ⚙️ **Tools & Other:** Git, GitHub, Postman, Visual Studio, VS Code, Swagger
 
 ---
@@ -42,4 +43,4 @@
 </p>
 <br/>
 
-Last edited on: 26/6/2025
+Last edited on: 28/1/2026
